@@ -27,7 +27,7 @@ var ringID = 'qawr69';
 //should the widget include a link to an index page?
 var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = 'http://localhost/ua3/webring/webring.php';
+var indexPage = 'http://www.unrealityagents.com/onionring/webring.php';
 
 //should the widget include a random button?
 var useRandom = true;
