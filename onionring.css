@@ -1,0 +1,46 @@
+/* onionring.js is made up of four files - onionring-widget.js, onionring-index.js, onionring-variables.js and onionring.css (this one!)
+// it's licensed under the cooperative non-violent license (CNPL) v4+ (https://thufie.lain.haus/NPL.html)
+// it was originally made by joey + mord of allium (蒜) house, last updated 2020-10-24 */
+
+/* === ONIONRING.CSS === */
+/* this file affects the style of the widget. remember to replace all instances of #qawr69 with whatever value you have for ringID in the onionring-widget.js file. make sure it still has the # at the front, though! probably easiest to use find+replace to do it */
+
+#qawr69 {
+  margin-left: 30%;
+  margin-right: auto;
+  padding: 15px; /* creates some space around the widget */
+  bottom: 10px;
+  position: absolute;
+}
+
+#qawr69 table {
+  background-color: #4E595F; /* makes the background pure white */
+  margin: 0 auto; /* centers the widget */
+  border-color: #F157AD;
+  border-style: solid;
+  border-width: 3px;
+  border-radius: 5px;
+  color: #94D671;
+  font-family: ubuntu;
+}
+
+#qawr69 table tr td {
+  padding: 15px; /* creates some space between the links and text inside the widget */
+}
+
+#qawr69 .webring-prev {
+  text-align:right;
+}
+
+#qawr69 .webring-info {
+   text-align:center;
+   font-family: ubuntu;
+}
+
+#qawr69 .webring-next {
+  text-align:left;
+}
+
+#qawr69 .webring-links {
+  font-size: 14px;
+}
