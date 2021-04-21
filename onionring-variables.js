@@ -14,6 +14,8 @@ var sites = [
 'https://hexgrimoire.neocities.org/home.html',
 'http://www.trsatsuki.net/',
 'https://cmdonovann.neocities.org/'
+'https://jessephoenix.art/'
+'https://gabrielwormwood.com/'
 ];
 
 //the name of the ring
