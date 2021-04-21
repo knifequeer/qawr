@@ -8,7 +8,11 @@
 //the full URLs of all the sites in the ring
 var sites = [
 'http://www.unrealityagents.com/',
+'https://kmclaude.com/',
 'http://moeshit.net/',
+'https://www.moltengoldart.com/',
+'https://hexgrimoire.neocities.org/home.html',
+'http://www.trsatsuki.net/',
 'https://cmdonovann.neocities.org/'
 ];
 
