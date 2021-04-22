@@ -13,8 +13,8 @@ var sites = [
 'https://www.moltengoldart.com/',
 'https://hexgrimoire.neocities.org/home.html',
 'http://www.trsatsuki.net/',
-'https://cmdonovann.neocities.org/'
-'https://jessephoenix.art/'
+'https://cmdonovann.neocities.org/',
+'https://jessephoenix.art/',
 'https://gabrielwormwood.com/'
 ];
 
