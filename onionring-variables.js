@@ -7,7 +7,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'http://unrealityagents.com/',
+'http://knifequeerart.com/',
 'https://kmclaude.com/',
 'http://moeshit.net/',
 'https://www.moltengoldart.com/',
