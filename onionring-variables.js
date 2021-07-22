@@ -7,7 +7,7 @@
 
 //the full URLs of all the sites in the ring
 var sites = [
-'http://knifequeerart.com/',
+'https://knifequeerart.com/',
 'https://kmclaude.com/',
 'http://moeshit.net/',
 'https://www.moltengoldart.com/',
@@ -29,7 +29,7 @@ var ringID = 'qawr69';
 //should the widget include a link to an index page?
 var useIndex = true;
 //the full URL of the index page. if you're not using one, you don't have to specify anything here
-var indexPage = 'http://www.unrealityagents.com/onionring/webring.php';
+var indexPage = 'https://www.knifequeerart.com/onionring/webring.php';
 
 //should the widget include a random button?
 var useRandom = true;
